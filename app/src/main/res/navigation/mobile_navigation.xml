@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_calendar">
+
+    <fragment
+        android:id="@+id/navigation_calendar"
+        android:name="com.feepro.studenthelper.ui.calendar.CalendarFragment"
+        android:label="@string/title_timetable"
+        tools:layout="@layout/fragment_calendar" />
+
+    <fragment
+        android:id="@+id/navigation_homework"
+        android:name="com.feepro.studenthelper.ui.homework.HomeworkFragment"
+        android:label="@string/title_homework"
+        tools:layout="@layout/fragment_homework" />
+
+    <fragment
+        android:id="@+id/navigation_notes"
+        android:name="com.feepro.studenthelper.ui.notes.NotesFragment"
+        android:label="@string/title_notes"
+        tools:layout="@layout/fragment_notes" />
+</navigation>

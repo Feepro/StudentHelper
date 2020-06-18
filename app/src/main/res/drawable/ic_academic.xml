@@ -1,0 +1,66 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M488,64L464,64L464,48a8,8 0,0 0,-8 -8L288,40a39.964,39.964 0,0 0,-32 16.028A39.964,39.964 0,0 0,224 40L56,40a8,8 0,0 0,-8 8L48,64L24,64a8,8 0,0 0,-8 8L16,384a8,8 0,0 0,8 8L352,392v88a24.028,24.028 0,0 0,24 24h32a24.028,24.028 0,0 0,24 -24L432,392h56a8,8 0,0 0,8 -8L496,72A8,8 0,0 0,488 64ZM64,328L224,328a24.039,24.039 0,0 1,22.624 16L64,344ZM381.536,200h20.928l10.493,32L371.043,232ZM386.783,184L392,168.09 397.217,184ZM352,344L265.376,344A24.039,24.039 0,0 1,288 328h64ZM368,248h16L384,408L368,408ZM368,424h48v16L368,440ZM416,408L400,408L400,248h16ZM432,328h16v16L432,344ZM288,56L448,56L448,312L432,312L432,240c0,-0.138 -0.014,-0.272 -0.021,-0.408 0,-0.1 -0.006,-0.2 -0.015,-0.3a8.045,8.045 0,0 0,-0.115 -0.828c0,-0.012 0,-0.024 -0.006,-0.036a7.791,7.791 0,0 0,-0.234 -0.889l-0.007,-0.03 -24.411,-74.44a15.959,15.959 0,0 0,-30.382 0L352.4,237.507l-0.007,0.03a7.791,7.791 0,0 0,-0.234 0.889c0,0.012 0,0.024 -0.006,0.036a8.045,8.045 0,0 0,-0.115 0.828c-0.009,0.1 -0.01,0.2 -0.015,0.3 -0.007,0.136 -0.021,0.27 -0.021,0.408v72L288,311.998a39.788,39.788 0,0 0,-24 8.022L264,80A24.028,24.028 0,0 1,288 56ZM64,56L224,56a24.028,24.028 0,0 1,24 24L248,320.019A39.792,39.792 0,0 0,224 312L64,312ZM32,376L32,80L48,80L48,352a8,8 0,0 0,8 8L352,360v16ZM416,480a8.009,8.009 0,0 1,-8 8L376,488a8.009,8.009 0,0 1,-8 -8L368,456h48ZM480,376L432,376L432,360h24a8,8 0,0 0,8 -8L464,80h16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M88,224h80a8,8 0,0 0,0 -16H88a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M224,208H200a8,8 0,0 0,0 16h24a8,8 0,0 0,0 -16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M232,280a8,8 0,0 0,-8 -8H144a8,8 0,0 0,0 16h80A8,8 0,0 0,232 280Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M112,272H88a8,8 0,0 0,0 16h24a8,8 0,0 0,0 -16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M88,256H224a8,8 0,0 0,0 -16H88a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M152,192h72a8,8 0,0 0,0 -16H152a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M152,160h72a8,8 0,0 0,0 -16H152a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M344,96h80a8,8 0,0 0,0 -16H344a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,96h24a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,160h64a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,128H424a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,224h40a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,288h40a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,256h40a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M288,192h56a8,8 0,0 0,0 -16H288a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M88,128h32a8,8 0,0 0,8 -8L128,88a8,8 0,0 0,-8 -8L88,80a8,8 0,0 0,-8 8v32A8,8 0,0 0,88 128ZM96,96h16v16L96,112Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M88,192h32a8,8 0,0 0,8 -8L128,152a8,8 0,0 0,-8 -8L88,144a8,8 0,0 0,-8 8v32A8,8 0,0 0,88 192ZM96,160h16v16L96,176Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M152,128h72a8,8 0,0 0,0 -16H152a8,8 0,0 0,0 16Z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M152,96h72a8,8 0,0 0,0 -16H152a8,8 0,0 0,0 16Z"/>
+</vector>
